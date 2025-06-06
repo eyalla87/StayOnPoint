@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stay On Point</string>
+    <string name="title_home">Home</string>
+    <string name="title_practice">Practice Session</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_new_prompt">New Prompt</string>
+    <string name="lbl_point">Point</string>
+    <string name="lbl_proof">Proof</string>
+    <string name="lbl_purpose">Purpose</string>
+    <string name="lbl_prompt">Practice Prompt</string>
+    <string name="lbl_timer_complete">Time\'s up!</string>
+    <string name="hint_point">Your main point</string>
+    <string name="hint_proof">Supporting evidence</string>
+    <string name="hint_purpose">Why it matters</string>
+</resources>
